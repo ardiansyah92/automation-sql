@@ -59,6 +59,8 @@ please don't consent with the FAILED result but focus from result query SQL
 
 <img width="991" height="32" alt="Screenshot 2025-11-27 at 12 40 43" src="https://github.com/user-attachments/assets/c3e63d90-fdd6-489e-bb56-2669c98ed42b" />
 
+
+
 This is the Google Drive link for the skill test answers for case study 1 and case study 2.
 
     https://drive.google.com/drive/folders/1Ovc_s9ONPp1dPCcZZVHKElPBHKFza6B-?usp=sharing
