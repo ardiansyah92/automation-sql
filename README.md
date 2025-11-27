@@ -1,4 +1,4 @@
-# automation-sql
+# Automation SQL with Python Code
 
 Remember guid for this script automation sql you must have table booking and table price list.
 
