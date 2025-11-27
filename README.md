@@ -33,6 +33,10 @@ Clone repo Automation SQL
 
     https://github.com/ardiansyah92/automation-sql.git
 
+Open file test_booking_validation.py
+
+    this line DB_URL = "mysql+pymysql://root:@localhost/ayo" change with your connection Database
+
 Running code
 
     pytest test_booking_validation.py
